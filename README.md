@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Alex
+- 👋 Hi, I’m Alexander
 - 👀 I’m interested in development of dynamic websites. 
-- 🌱 I’m currently learning PHP and C++.
+- 🌱 I’m currently learning PHP, Laravel, JS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me assoed2@yandex.ru
 
